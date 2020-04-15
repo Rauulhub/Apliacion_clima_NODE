@@ -1,0 +1,8 @@
+## aplicacion del clima
+
+
+
+````
+npm init
+node app -d "New York"
+````
